@@ -1,7 +1,7 @@
 # Ginkgo-Flashlight-Brightness-Control
 # brightness.sh
 
-A simple shell script to customize and permanently apply flashlight brightness on Android devices with a kernel supporting adjustable LED levels (thanks to Flopster101).
+A simple shell script to customize and permanently apply flashlight brightness on Android Redmi Note 8 (maybe more) devices with a kernel supporting adjustable LED levels (thanks to Flopster101).
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ A simple shell script to customize and permanently apply flashlight brightness o
 ## Prerequisites
 
 * **Root access** on your Android device.
-* A kernel that supports adjustable flashlight brightness (e.g., with Flopster101 patch).
+- A kernel that supports adjustable flashlight brightness — such as the [Flop Ginkgo Kernel by Flopster101](https://github.com/FlopKernel-Series/flop_ginkgo_kernel), which includes support for customizable LED levels.
 * A terminal emulator (e.g., Termux) with `su` command available.
 
 ## Installation
